@@ -1,5 +1,7 @@
 Doxygen
 ===============
+[![doxygen](https://docstand.rocro.com/badges/github.com/papriwalprateek/doxygen/documentation/doxygen?token=kTElRa3hGSNcRMNKxGSkKxf5PvCoUyYEDjROHHn_byo&branch=master)](https://docstand.rocro.com/docs/github.com/papriwalprateek/doxygen/branch/master/doxygen/html/index.html)
+
 Doxygen is the de facto standard tool for generating documentation from 
 annotated C++ sources, but it also supports other popular programming 
 languages such as C, Objective-C, C#, PHP, Java, Python, IDL 
