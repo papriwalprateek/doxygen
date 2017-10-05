@@ -1,0 +1,3 @@
+docstand:
+  doxygen:
+    config-file: doc/Doxyfile
